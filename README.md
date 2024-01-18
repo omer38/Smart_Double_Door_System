@@ -5,3 +5,6 @@ and two Servo motors. When someone gets close to the door, the alarm activates a
 doors. Doors can be opened by joysticks or smartphone. I coded the project in C language. I get full marks for this
 project.
 
+<img width="359" alt="image" src="https://github.com/omer38/Smart_Double_Door_System/assets/69686830/9a8e0eb2-59e4-4c86-b2e8-f157ea06e98a">
+
+
